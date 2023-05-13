@@ -11,7 +11,7 @@ tokenizers
 joblib
 black
 click
-urllib3
+urllib3==1.21.1
 certifi
 chardet
 click
