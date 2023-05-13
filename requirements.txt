@@ -24,3 +24,4 @@ gunicorn
 idna
 requests
 Werkzeug
+keras-self-attention
