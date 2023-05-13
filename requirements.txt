@@ -1,3 +1,4 @@
+python-3.9.2
 Flask
 tensorflow
 keras
@@ -26,3 +27,4 @@ requests
 Werkzeug
 keras-self-attention
 pickle5
+keras_preprocessing
