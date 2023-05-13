@@ -25,3 +25,4 @@ idna
 requests
 Werkzeug
 keras-self-attention
+pickle5

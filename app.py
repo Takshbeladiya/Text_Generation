@@ -6,6 +6,7 @@ import keras
 import pandas as pd
 import numpy as np
 import re
+import pickle5 as pickle
 from keras_self_attention import SeqSelfAttention
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
